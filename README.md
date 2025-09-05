@@ -7,10 +7,15 @@ Installation Instructions
 This project uses Python 3.8+ and the following key packages:
 
 transformers>=4.30.0
+
 torch>=2.0.0
+
 pandas>=1.5.0
+
 numpy>=1.24.0
+
 scikit-learn>=1.2.0
+ 
 matplotlib>=3.7.0
 
 1. Download the .ipnyb file containing the code.
