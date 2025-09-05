@@ -12,8 +12,10 @@ pandas>=1.5.0
 numpy>=1.24.0
 scikit-learn>=1.2.0
 matplotlib>=3.7.0
-Download the .ipnyb file containing the code.
-Intall the required packages
+
+1. Download the .ipnyb file containing the code.
+2. Install the required packages
+
 Dataset
 The project uses a public dataset (cited in the report) Follow this link: https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset, scroll down and on the right side download the csv file titled "phishing_email.csv".
 
@@ -21,6 +23,7 @@ How to run the code
 Running the code is straight forward after all the packages have been downloaded. I used Google Colab Pro which took about 2 hours to train the model. Run each code section and make sure no errors occur before moving on. Once you are at the
 
 trainer.train
+
 section, the code will take a while to run. During training, you will see an output table like: Screenshot 2025-08-10 at 7.18.33 PM.png
 
 Expected Output
