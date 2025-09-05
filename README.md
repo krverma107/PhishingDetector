@@ -29,7 +29,7 @@ Running the code is straight forward after all the packages have been downloaded
 
 trainer.train
 
-section, the code will take a while to run. During training, you will see an output table like: Screenshot 2025-08-10 at 7.18.33 PM.png
+section, the code will take a while to run. During training, you will see an output table like: /download.png
 
 Expected Output
 After training:
